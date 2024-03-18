@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab3_TechProg_2022", "Lab3_TechProg_2022\Lab3_TechProg_2022.csproj", "{4C13CAA4-007B-4CC5-94ED-3874588B07A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingSort", "CountingSort\CountingSort.csproj", "{A13B3AC0-E52D-45F4-B852-CF6C62691DC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C13CAA4-007B-4CC5-94ED-3874588B07A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C13CAA4-007B-4CC5-94ED-3874588B07A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C13CAA4-007B-4CC5-94ED-3874588B07A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C13CAA4-007B-4CC5-94ED-3874588B07A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A13B3AC0-E52D-45F4-B852-CF6C62691DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13B3AC0-E52D-45F4-B852-CF6C62691DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13B3AC0-E52D-45F4-B852-CF6C62691DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13B3AC0-E52D-45F4-B852-CF6C62691DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C259A0D1-AF1A-4757-A65C-E0CC880FE207}
+	EndGlobalSection
+EndGlobal
